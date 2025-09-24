@@ -1,0 +1,2 @@
+# LABORATORIO-N-6-PSM-400
+Laboratorio 6 de PSM-400
